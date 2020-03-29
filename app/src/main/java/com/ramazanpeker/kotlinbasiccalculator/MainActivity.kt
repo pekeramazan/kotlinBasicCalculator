@@ -8,7 +8,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 var input1 : Int?=null
     var input2 : Int? = null
     var resultValue :Int? =null
-
+//test
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
